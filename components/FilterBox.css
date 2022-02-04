@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+.boxContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 40%;
+    margin-top: 10%;
+    background-color: #131313;
+    border-radius: 20px;
+}
+.filterHead{
+    align-self: flex-start;
+    margin: 7% 0 7% 20%;
+    font-size: 30px;
+    font-weight: 300;
+    color: #797979;
+}
+hr{
+    width: 80%;
+    margin: 0 2% 7% 0;
+}
+.selector{
+    height: 10%;
+    width: 60%;
+    margin: 5% 0 0 0;
+    padding: 4% 0 0 5%;
+    background-color: #232323;
+    border-radius: 5px;
+    font-size: 100%;
+    color: white;
+}
