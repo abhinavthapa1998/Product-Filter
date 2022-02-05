@@ -14,7 +14,6 @@ function App() {
       <div className="header">Edvora</div>
       <div className="subHeader">Products</div>
       <ProductsBox/>
-      
     </div>
     </div>
 )
