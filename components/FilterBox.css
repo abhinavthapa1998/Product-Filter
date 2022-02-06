@@ -9,7 +9,7 @@
     width: 50%;
     height: 35%;
     margin-top: 10%;
-    background-color: #131313;
+    background-color: #C5C8D9;
     border-radius: 20px;
 }
 .filterHead{
@@ -17,7 +17,7 @@
     margin: 7% 0 7% 20%;
     font-size: 30px;
     font-weight: 300;
-    color: #797979;
+    color: #3f3f3f;
 }
 hr{
     width: 80%;
@@ -28,8 +28,8 @@ hr{
     width: 60%;
     margin: 5% 0 0 0;
     padding: 4% 0 0 5%;
-    background-color: #232323;
+    background-color: #EBEBF2;
     border-radius: 5px;
     font-size: 100%;
-    color: white;
+    color: #3f3f3f;
 }
