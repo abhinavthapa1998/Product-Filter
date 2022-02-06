@@ -13,9 +13,9 @@
 }
 
 .listBox{
-    display: block;
+    display: flex;
     height: 30%;
-    width: 80%;
+    max-width: 81%;
     background-color: black;
     border-radius: 15px;
 }
