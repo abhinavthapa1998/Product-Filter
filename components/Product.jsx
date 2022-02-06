@@ -2,8 +2,9 @@ import React from "react";
 import "./Product.css";
 
 const Product = (props) => {
+  
   let i = parseInt(props.index);
-  let prods = props.prod;
+  let prods = props.productObject;
   let name = prods[i]["product_name"];
   let brand = prods[i]["brand_name"];
   let image = prods[i]["image"];

@@ -11,7 +11,7 @@ function App() {
      <FilterBox/>
     </div>
     <div className="right">
-      <div className="header">Edvora</div>
+      <div className="header">Product Filter</div>
       <div className="subHeader">Products</div>
       <ProductsBox/>
     </div>
