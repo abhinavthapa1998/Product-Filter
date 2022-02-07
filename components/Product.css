@@ -26,7 +26,7 @@
     font-size: 1vw;
 }
 .brand{
-    color: #868686;
+    color: #3f3f3f;
     font-size: 0.9vw;
 }
 .price{
@@ -40,12 +40,12 @@
     justify-content: space-evenly;
 }
 .date{
-    color: #838383;
+    color: #3f3f3f;
     font-size: 0.6vw;
     margin-right: 25%;
 }
 .loc{
-    color: #838383;
+    color: #3f3f3f;
     font-size: 0.6vw;
     margin-right: 10%;
 }
@@ -65,5 +65,5 @@
 .description{
     align-self: center;
     font-size: 0.7vw;
-    color: #838383;
+    color: #3f3f3f;
 }
